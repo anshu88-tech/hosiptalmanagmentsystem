@@ -1,11 +1,11 @@
- HMS - Hospital Management System 🏥
+# HMS - Hospital Management System 
 
 A robust and modular **Hospital Management System** developed using **Java (JDK 21), JDBC, and MySQL**. 
 This project follows the **MVC (Model-View-Controller)** architecture to manage hospital workflows like doctor scheduling, patient registrations, appointments, and billing via a clean console-based interface.
 
 ---
 
- Features
+# Features
 
 * **Department Management:** Add, update, and track hospital departments and locations.
 * **Doctor Profiles:** Manage doctor specializations, contact details, and department allocation.
@@ -15,7 +15,7 @@ This project follows the **MVC (Model-View-Controller)** architecture to manage 
 
 ---
 
-  Tech Used
+ # Tech Used
 
 * **Core Java** (JavaSE-21)
 * **JDBC** (Java Database Connectivity)
@@ -24,7 +24,7 @@ This project follows the **MVC (Model-View-Controller)** architecture to manage 
 
 ---
 
-  Concepts Covered
+  # Concepts Covered
 
 * **MVC Design Pattern** (Separation of Controller, Entity, DAO, and View)
 * **DAO (Data Access Object) Pattern** for database operations
@@ -33,7 +33,7 @@ This project follows the **MVC (Model-View-Controller)** architecture to manage 
 
 ---
 
- Project Structure
+# Project Structure
 
 * **Controller:** Handles application logic and user requests.
 * **Entity:** POJO classes representing the database tables.
@@ -56,4 +56,5 @@ This project follows the **MVC (Model-View-Controller)** architecture to manage 
 
 ---
 
- 👨‍💻 Author
+ Author
+Rupendra Bisen
